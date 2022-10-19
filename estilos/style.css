@@ -15,8 +15,8 @@ html,body{
 }
 
 body{
-    background-image: url(../imagens/fundo-madeira.jpg);
-    /*background-image: linear-gradient(to bottom, rgb(5, 10, 96), black);*/
+    /*background-image: url(../imagens/fundo-madeira.jpg);*/
+    background-image: linear-gradient(to bottom, rgb(5, 10, 96), black);
     background-size: cover;
     background-attachment: fixed;
 }
